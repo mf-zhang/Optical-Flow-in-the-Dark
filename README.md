@@ -1,4 +1,4 @@
-# Optical-Flow-in-the-Dark
+# Optical Flow in the Dark
 Optical Flow in the Dark (CVPR 2020)
 
 [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.pdf)
@@ -20,10 +20,11 @@ Please download our pretrained [PWC-Net](https://github.com/mf-zhang/Optical-Flo
 ## Citation
 
 ```
-@InProceedings{Sun2018PWC-Net,
-  author    = {Deqing Sun and Xiaodong Yang and Ming-Yu Liu and Jan Kautz},
-  title     = {{PWC-Net}: {CNNs} for Optical Flow Using Pyramid, Warping, and Cost Volume},
-  booktitle = CVPR,
-  year      = {2018},
+@inproceedings{zheng2020optical,
+  title={Optical Flow in the Dark},
+  author={Zheng, Yinqiang and Zhang, Mingfang and Lu, Feng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6749--6757},
+  year={2020}
 }
 ```
