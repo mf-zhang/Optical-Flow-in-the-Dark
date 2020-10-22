@@ -12,10 +12,12 @@
 
 ## Explain the VBOF dataset
 
+<img src="./im.png" width = "30%" />
+
 ### Steps to create the VBOF dataset
 
 1. **Collect images**: 
-Collect object movement in multiple exposures. (See Figure 2 in our [paper]( https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.pdf) for details)
+Collect object movement in multiple exposures. (More details in our [paper]( https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.pdf).)
 
 2. **Scale the brightness**: 
 Normalize the multiple-exposure 14-bit raw images to `[0,1]`, and scale the brightness intensity of each image to a mean value of `0.4`.
@@ -30,8 +32,8 @@ Pair the images into couples and match optical flow references to each image pai
 
 For example,
 
-`12030405_img1.jpg`: collected by camera #12, object position 03 -> position 04, exposure #5 (1:bright, 9:dark), first frame (position 03).
+`12030405_img1.jpg`: collected by camera #12, object position #03 -> position #04, exposure #05 (1:bright, 9:dark), first frame (position #03).
 
-`12030405_img2.jpg`: collected by camera #12, object position 03 -> position 04, exposure #5 (1:bright, 9:dark), second frame (position 04).
+`12030405_img2.jpg`: collected by camera #12, object position #03 -> position #04, exposure #05 (1:bright, 9:dark), second frame (position #04).
 
-`12030405_flow.flo`: optical flow reference for object movement position 03 -> position 04, collected by camera #12.
+`12030405_flow.flo`: optical flow reference for object movement position #03 -> position #04, collected by camera #12.
