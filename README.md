@@ -3,7 +3,7 @@ Optical Flow in the Dark (CVPR 2020)
 
 [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.pdf)
 
-<img src="./im.png" width = "80%" />
+<img src="./im.jpg" width = "80%" />
 
 ## Setup
 

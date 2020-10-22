@@ -12,7 +12,7 @@
 
 ## Explain the VBOF dataset
 
-<img src="./im.png" width = "30%" />
+<img src="./im.jpg" width = "30%" />
 
 ### Steps to create the VBOF dataset
 
