@@ -15,7 +15,7 @@ See [VBOF dataset](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/mai
 
 ## Test the models
 
-Please download our pretrained [PWC-Net](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/PWC-Net) and [FlowNet](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/FlowNet) models and follow the instructions in the original repositories to test the models on our [VBOF dataset](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/VBOF%20dataset).
+Please download our pretrained [PWC-Net](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/PWC-Net) and [FlowNet](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/FlowNet) models and follow the instructions in the original PWC-Net and FlowNet repositories to test the models on our [VBOF dataset](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/VBOF%20dataset).
 
 ## Citation
 
