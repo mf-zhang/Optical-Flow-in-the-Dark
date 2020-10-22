@@ -60,11 +60,10 @@ for camera_str in cameras:
     for i in tqdm(range(len(camera_im1))):
         n1 = camera_im1[i]
         n2 = camera_im2[i]
-        bright_this_scene = glob.glob('./src/%s/%d_*.jpg'%(camera_str,n1))
-        bright_this_scene.sort()
-        brightnum_this_scene = len(bright_this_scene)
+        images_this_scene = glob.glob('./src/%s/%d_*.jpg'%(camera_str,n1))
+        image_num_this_scene = len(images_this_scene)
 
-        for j in range(1,brightnum_this_scene+1):
+        for j in range(1,image_num_this_scene+1):
             ima = './src/%s/%d_%d.jpg'%(camera_str,n1,j)
             imb = './src/%s/%d_%d.jpg'%(camera_str,n2,j)
             flo = './src/%s/GT/%d-%d.flo'%(camera_str,n1,n2)
