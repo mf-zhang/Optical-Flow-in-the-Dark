@@ -10,6 +10,8 @@
 
 4. Delete the `VBOF_publish/src` folder and `fill_VBOF_data.py`.
 
+5. If you need raw image data of our VBOF dataset (65G), your can download it here (https://pan.baidu.com/s/1gY4j_rQtjGHvWfdwYqHnuA, uv6e) and process raw images with our `raw2rgb.py`. You can contact us if you have better ways to receive the data from us.
+
 ## Explain the VBOF dataset
 
 <img src="./im.jpg" width = "30%" />

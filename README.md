@@ -9,15 +9,15 @@ Optical Flow in the Dark (CVPR 2020)
 
 ### Pretrained Models
 
-See [PWC-Net_OFDark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/PWC-Net_OFDark) and [FlowNet_OFDark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/FlowNet_OFDark) for details.
+See [PWCNet_OFDark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/PWCNet_OFDark) and [FlowNet_OFDark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/FlowNet_OFDark) for details.
 
 ### Dataset
 
-See [VBOF dataset](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/VBOF%20dataset) for details.
+See [VBOF_dataset](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/VBOF_dataset) for details.
 
 ## Test the models
 
-Please download our pretrained [PWC-Net_OFDark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/PWC-Net_OFDark) and [FlowNet_OFDark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/FlowNet_OFDark) models and follow the instructions in the original PWC-Net and FlowNet repositories to test the models on our [VBOF dataset](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/VBOF%20dataset).
+Please download our pretrained [PWCNet_OFDark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/PWCNet_OFDark) and [FlowNet_OFDark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/FlowNet_OFDark) models and follow the instructions in the original PWC-Net and FlowNet repositories to test the models on our [VBOF_dataset](https://github.com/mf-zhang/Optical-Flow-in-the-Dark/tree/main/VBOF_dataset).
 
 ## Citation
 
