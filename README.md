@@ -1,7 +1,8 @@
 # Optical Flow in the Dark
-Optical Flow in the Dark (CVPR 2020)
 
-[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.pdf)
+[Conference Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.pdf)
+
+[Journal Paper](https://ieeexplore.ieee.org/document/9626625)
 
 <img src="./im.jpg" width = "80%" />
 
@@ -31,5 +32,16 @@ Please download our pretrained [PWCNet_OFDark](https://github.com/mf-zhang/Optic
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={6749--6757},
   year={2020}
+}
+
+@ARTICLE{9626625,
+  author={Zhang, Mingfang and Zheng, Yinqiang and Lu, Feng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Optical Flow in the Dark}, 
+  year={2022},
+  volume={44},
+  number={12},
+  pages={9464-9476},
+  doi={10.1109/TPAMI.2021.3130302}
 }
 ```
